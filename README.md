@@ -41,8 +41,6 @@ RegisterNumber: 212222040133
 package com.example.ex_2b;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.app.AppCompatActivity;
-import android.os.Bundle;
 import android.os.Bundle;
 import android.app.Activity;
 import android.graphics.Typeface;
@@ -50,9 +48,6 @@ import android.graphics.Color;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-
-import android.os.Bundle;
-
 
 public class MainActivity extends AppCompatActivity {
     float font = 24;
